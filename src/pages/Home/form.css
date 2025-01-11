@@ -1,0 +1,9 @@
+.container{
+    height: 100px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.cancel-button{
+    margin-left: 10px;
+}
