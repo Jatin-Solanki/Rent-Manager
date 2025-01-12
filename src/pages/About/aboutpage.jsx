@@ -3,7 +3,7 @@ export const AboutPage=()=>{
     return(
         <>
         <div className="about">
-            <h1>About Me</h1>
+            <h1>Reminder</h1>
         </div>
         </>
     )

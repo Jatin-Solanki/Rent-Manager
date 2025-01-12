@@ -42,7 +42,7 @@ export const RegistrationForm=()=>{
                     </label>
                     <input type="text"
                             name="noOfUnits"
-                            placeholder="Enter Property Name" 
+                            placeholder="Enter No. of Units" 
                             value={noOfUnits}
                             onChange={handleInputChange}
                     />

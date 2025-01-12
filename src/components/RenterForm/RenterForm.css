@@ -1,0 +1,10 @@
+.renter-form{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.renter-form h2{
+    margin-bottom: 10px;
+}
+.renter-form input{
+    margin-bottom: 5px;
+}
